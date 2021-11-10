@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArjunBhaybhang
 - 💞️ Data Scientist | Machine Learning | Deep Learning | NLP | Computer Vision | Analytics | Social Networks
 - 👀 Projects      : https://github.com/ArjunBhaybhang/Public-Projects 
-- 📫 Reach me at   : bhaybhang.arjun@gmail.com
+- 📫 Email         : bhaybhang.arjun@gmail.com
 - 👨‍💻 Linkedin      : www.linkedin.com/in/arjun-bhaybhang	
 <!---
 ArjunBhaybhang/ArjunBhaybhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
