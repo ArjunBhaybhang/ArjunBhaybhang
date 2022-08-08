@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arjun
-- 📊 Data Science | Machine Learning | Deep Learning | NLP | Computer Vision | Analytics | Social Networks
+- Expertise        : 📊 Data Science | Machine Learning | Deep Learning | NLP | Computer Vision | Analytics | Social Networks 
 - 👀 Projects      : https://github.com/ArjunBhaybhang/Public-Projects 
 - 📫 Email         : bhaybhang.arjun@gmail.com
 - 👨‍💻 Linkedin      : www.linkedin.com/in/arjun-bhaybhang	
