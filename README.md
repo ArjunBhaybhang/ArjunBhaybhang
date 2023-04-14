@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Arjun
-- Expertise        : 📊 Data Science | Machine Learning | Deep Learning | NLP | Computer Vision | Analytics | Social Networks 
-- Full Stack       : Backend - FastAPI(Python) | Frontend - React(Javascript) |  Database - PostgresSQL | Devops - AWS & GCP
-- 📫 Email         : bhaybhang.arjun@gmail.com
+- 🚀 Expertise     : 📊 Data Science | Machine Learning | Deep Learning | NLP | Computer Vision | Analytics | Social Networks 
+- 🛠️ Full Stack    : Backend - FastAPI(Python) | Frontend - React(Javascript) |  Database - PostgresSQL | Devops - AWS & GCP
+- 🌐 Website       : bhaybhang.arjun@gmail.com
+- 📧 Email         : bhaybhang.arjun@gmail.com
 - 👨‍💻 Linkedin      : www.linkedin.com/in/arjun-bhaybhang
 <!---
 ArjunBhaybhang/ArjunBhaybhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
