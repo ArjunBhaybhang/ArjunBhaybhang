@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arjun
 - 🚀 Expertise     : 📊 Data Science | Machine Learning | Deep Learning | NLP | Computer Vision | Analytics | Social Networks 
 - 🛠️ Full Stack    : Backend - FastAPI(Python) | Frontend - React(Javascript) |  Database - PostgresSQL | Devops - AWS & GCP
-- 🌐 Website       : http://arjun-bhaybhang.great-site.net/
+- 🌐 Website       : https://arjun-bhaybhang.great-site.net/
 - 📧 Email         : bhaybhang.arjun@gmail.com
 - 👨‍💻 Linkedin      : www.linkedin.com/in/arjun-bhaybhang
 <!---
